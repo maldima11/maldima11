@@ -1,6 +1,6 @@
 # Hi there, I'm Stephen Tobigah Maldima! 👋
 
-![Header](./your-header-image-name.png)
+![Header](/your-header-image-name.png)
 
 ## About Me 🚀
 
