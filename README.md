@@ -1,7 +1,5 @@
 # Hi there, I'm Stephen Tobigah Maldima! 👋
 
-![Header](/your-header-image-name.png)
-
 ## About Me 🚀
 
 I'm a passionate Frontend Engineering with experience in Basic HTML/CSS3 and JavaScript. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
