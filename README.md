@@ -1,6 +1,6 @@
 # Hi there, I'm Stephen Tobigah Maldima! 👋
 
-![Banner Image](your_banner_image_url_here)
+https://drive.google.com/file/d/1tFoW2J5TTIFAtE_NGhRHOIxVhezVeGM7/view?usp=sharing
 
 ## About Me 🚀
 
