@@ -8,7 +8,7 @@ Here’s your monthly reflection checklist:
 🔹 Any standout moments or breakthroughs?
 
 
-Week of 6 Dec
+Week 1 of Nov
 🔹 What did I work on?
 - I went through JavaScript basics like
     declaring variables, working with loops, navigating switch & break code blocks, etc.
